@@ -1,5 +1,3 @@
-from cmath import exp
-from unittest import expectedFailure
 
 
 def fibonacci(n):
