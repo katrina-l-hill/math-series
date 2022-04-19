@@ -1,8 +1,8 @@
 
-LAB - Class 02
-Project: Modules and Testing
-Author: Katrina Hill
-Links and Resources
+LAB - Class 02  
+Project: Modules and Testing  
+Author: Katrina Hill  
+Links and Resources  
 
     back-end server url (when applicable)
     front-end application (when applicable)
