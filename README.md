@@ -1,28 +1,21 @@
 
 LAB - Class 02  
+
 Project: Modules and Testing  
+
 Author: Katrina Hill  
-Links and Resources  
 
-    back-end server url (when applicable)
-    front-end application (when applicable)
+Setup  
+.venv requirements.  
 
-Setup
-.env requirements (where applicable)
+- Created virtual and activated virtual environment.  
 
-i.e.
+Initialize/run application  
 
-    PORT - Port Number
-    DATABASE_URL - URL to the running Postgres instance/db
+- Created __init__.py files in math_series and tests folders.  
 
-How to initialize/run your application (where applicable)
+Tests  
 
-    e.g. python main.py
-
-How to use your library (where applicable)
-Tests
-
-    How do you run tests?
-    Any tests of note?
-    Describe any tests that you did not complete, skipped, etc
-
+- How do you run tests? Tests are run using the command "pytest."  
+- Any tests of note? There are no specific tests to note. All tests passed.  
+- Describe any tests that you did not complete, skipped, etc. There were no tests skipped or not completed.  
